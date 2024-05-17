@@ -5,7 +5,7 @@ import { Balancer } from "react-wrap-balancer";
 
 const keywords = [
   { text: "User Onboarding", color: "#e2bbce" },
-  { text: "User Rentetion", color: "#aabadb" },
+  { text: "User Retention", color: "#aabadb" },
   { text: "Transaction Fees", color: "#e9c7a1" },
   { text: "Verified Contract Source Code", color: "#acdcb4" },
   { text: "User Ecosystem Conversion", color: "#f0e182" },
@@ -18,6 +18,10 @@ const keywords = [
   { text: "Transaction + Asset Velocity", color: "#f0e182" },
   { text: "Life Time Value", color: "#98cfb8" },
   { text: "Project Token Adoption", color: "#98cfb8" },
+  { text: "Asset Value Creation", color: "#e2bbce" },
+  { text: "High Value Payments", color: "#acdcb4" },
+
+
 ];
 
 export default function Home() {
